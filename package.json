@@ -17,6 +17,7 @@
     "url": "https://openstf.io"
   },
   "main": "./index",
+  "typings": "./index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/openstf/adbkit-logcat.git"
